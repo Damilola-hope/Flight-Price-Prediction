@@ -179,4 +179,4 @@ All analyses were conducted using Microsoft Excel with the following steps:
    - Click `OK` to get the results.
 
 These steps will help replicate the analysis and verify the findings.
-
+I am open to collaborate on data analysis, statistical analysis, and visualization related projects. Youc an reach me via email [bakared2021@gmail.com]
